@@ -1,6 +1,3 @@
-.p-center{
-	padding: 100px;
-}
 
 .sbt1{
 	font-family: 'Open Sans', sans-serif;
@@ -9,4 +6,12 @@
 .titulos{
 	font-size: 32px;
 	font-style: bold;
+}
+
+.icons{
+	margin-left:60px; 
+}
+
+.pd-3 {
+	padding: 3%;
 }
