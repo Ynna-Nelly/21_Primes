@@ -7,6 +7,14 @@
 	padding-top: 10px;
 }
 
+.blanco2{
+	background-color: white;
+	box-shadow: 2px 2px 5px #999;
+	width: 400px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
 .mol{
 	margin-left: 10px;
 }
@@ -51,3 +59,25 @@ li{
 	margin-left: 105px;
 }
 
+.left3{
+	margin-left: 100px;
+}
+
+hr{
+	width: 280px;
+	margin-left: 50px;
+}
+
+#sta{
+	height: 50px;
+	background-color: #0B173B; 
+}
+
+.mr-2{
+	margin-left: 20px;
+}
+
+.sif{
+	font-size: 28px;
+	padding-top: 10px;
+}

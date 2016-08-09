@@ -80,7 +80,7 @@ strong {
 	background-color: rgb(244, 244, 244);
 }
 
-.bg-gray{
+.bg-gray3{
 	background-color: white;
 }
 
@@ -96,4 +96,8 @@ strong {
 
 .pull-right {
 	float: right;
+}
+
+.left2{
+	margin-left: 10px;
 }

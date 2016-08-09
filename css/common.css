@@ -100,6 +100,16 @@
 	font-size: 16px;
 }
 
+#load3{
+	background-color: #0B173B;
+	width: 150px;
+	height: 40px;
+	color: white;
+	text-decoration: none;
+	margin-left: 5%;
+	padding: 10px;
+	font-size: 16px;
+}
 
 a.boton { 
 	color: black;  
