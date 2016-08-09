@@ -21,3 +21,14 @@ li{
 	font-family: 'Open Sans', sans-serif;
 	display: inline-block;
 }
+
+#follow{
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.icor{
+	width: 40px;
+	height: auto;
+	margin: 10px;
+}
