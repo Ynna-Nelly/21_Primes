@@ -42,3 +42,19 @@ li{
 	width: 150px;
 }
 
+#bckf2{
+	background-image: url("../img/background/contactus.jpg");
+	height: 700px; 
+/* 	background-color: transparent;
+filter: brightness(50%); */
+    filter: brightness(50%);
+   	-webkit-filter: brightness(50%);
+   	-moz-filter: brightness(50%);
+   	-o-filter: brightness(50%);
+   	-ms-filter: brightness(50%) ;  
+}
+
+.left{
+	margin-left: 105px;
+}
+
